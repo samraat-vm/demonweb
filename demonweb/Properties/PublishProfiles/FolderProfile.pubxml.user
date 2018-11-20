@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\C3Train\demonweb\demonweb\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="about.aspx">
+      <publishTime>08/07/2018 12:37:30</publishTime>
+    </File>
+    <File Include="Admin/Administrator.Master">
+      <publishTime>08/17/2018 16:41:44</publishTime>
+    </File>
+    <File Include="Admin/admin_login.aspx">
+      <publishTime>08/28/2018 15:00:09</publishTime>
+    </File>
+    <File Include="Admin/Dashboard.aspx">
+      <publishTime>08/28/2018 15:24:12</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.pdb">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/AjaxMin.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/ar/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/cs/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/de/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Edm.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.OData.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/de/System.Spatial.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/demonweb.dll">
+      <publishTime>09/14/2018 18:14:27</publishTime>
+    </File>
+    <File Include="bin/demonweb.pdb">
+      <publishTime>09/14/2018 18:14:27</publishTime>
+    </File>
+    <File Include="bin/es/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Edm.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.OData.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/es/System.Spatial.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/fr/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Edm.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.OData.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/fr/System.Spatial.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/he/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/hi/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>08/29/2018 15:55:35</publishTime>
+    </File>
+    <File Include="bin/it/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Edm.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.OData.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/it/System.Spatial.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/ja/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Edm.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.OData.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/ja/System.Spatial.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/ko/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Edm.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.OData.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/ko/System.Spatial.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>10/16/2017 14:14:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Edm.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.OData.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.dll">
+      <publishTime>08/29/2018 15:55:35</publishTime>
+    </File>
+    <File Include="bin/nl/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/pl/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/pt/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.Process.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.DriveInfo.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Thread.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>12/13/2017 22:09:38</publishTime>
+    </File>
+    <File Include="bin/ru/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Edm.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.OData.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/ru/System.Spatial.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/System.Spatial.dll">
+      <publishTime>08/29/2018 15:55:35</publishTime>
+    </File>
+    <File Include="bin/tr-TR/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:36</publishTime>
+    </File>
+    <File Include="bin/zh-CHS/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/zh-CHT/AjaxControlToolkit.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Edm.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.OData.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Spatial.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Edm.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.OData.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/System.Spatial.resources.dll">
+      <publishTime>08/29/2018 15:55:37</publishTime>
+    </File>
+    <File Include="Blog.aspx">
+      <publishTime>08/08/2018 14:46:33</publishTime>
+    </File>
+    <File Include="contact.aspx">
+      <publishTime>08/10/2018 18:24:07</publishTime>
+    </File>
+    <File Include="demon.Master">
+      <publishTime>08/08/2018 14:45:02</publishTime>
+    </File>
+    <File Include="Employee/Dashboard.aspx">
+      <publishTime>09/03/2018 16:21:08</publishTime>
+    </File>
+    <File Include="Employee/Employee_Login.aspx">
+      <publishTime>08/28/2018 15:51:08</publishTime>
+    </File>
+    <File Include="home.aspx">
+      <publishTime>08/08/2018 14:47:10</publishTime>
+    </File>
+    <File Include="project.aspx">
+      <publishTime>08/07/2018 12:36:23</publishTime>
+    </File>
+    <File Include="service.aspx">
+      <publishTime>08/07/2018 12:36:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/14/2018 18:14:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

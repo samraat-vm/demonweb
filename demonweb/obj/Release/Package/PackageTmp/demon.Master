@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="demon.master.cs" Inherits="demonweb.demon" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Portfolio</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+     
+      <style>
+        
+        .nav{
+            padding:10px;
+            margin:10px;
+            text-align:right;
+            text-decoration:none;
+            color:whitesmoke;
+            /*font-weight:bolder;*/
+            font-family:'Cinzel',serif;
+        }
+       
+        .nav:hover{color:darkgreen;}
+        
+        .foot{
+            font-family:'Cinzel',serif;
+            text-align:center;
+            color:black;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+       <div> 
+           
+              <header class="w3-bar w3-black" style="text-align:right;padding:25px;">
+               <asp:HyperLink ID="home" runat="server" NavigateUrl="~/home.aspx" CssClass="nav">HOME</asp:HyperLink>
+               <asp:HyperLink ID="about" runat="server" NavigateUrl="~/about.aspx" CssClass="nav">ABOUT</asp:HyperLink>
+               <asp:HyperLink ID="service" runat="server" NavigateUrl="~/service.aspx" CssClass="nav">SERVICES</asp:HyperLink>
+               <asp:HyperLink ID="project" runat="server" NavigateUrl="~/project.aspx" CssClass="nav">PROJECTS</asp:HyperLink>
+               <asp:HyperLink ID="blog" runat="server" NavigateUrl="~/blog.aspx" CssClass="nav">BLOGS</asp:HyperLink>
+               <asp:HyperLink ID="contact" runat="server" NavigateUrl="~/contact.aspx" CssClass="nav">CONTACT</asp:HyperLink>
+                </header>           
+           <div>
+               <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+               </asp:ContentPlaceHolder>
+           </div>
+           <footer>
+               <h4 class="foot">&copy;2018 Vishal Mishra</h4>
+           </footer>
+        </div>
+    </form>
+</body>
+</html>
